@@ -678,6 +678,9 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        new Calculator();
+
+        System.out.println(
+                "Mostafa"
+        );new Calculator();
     }
 }
