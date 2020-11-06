@@ -662,7 +662,7 @@ public class Calculator {
     }
 
     private void onShowScientificMode() {
-        if (isScientificMode) {
+        if (isScientificMode) {sdrhrdthd
             window.setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
             btnRoot.setVisible(false);
             btnPower.setVisible(false);
